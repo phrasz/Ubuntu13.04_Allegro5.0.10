@@ -1,0 +1,1000 @@
+ 1126  nano echoTest.sh 
+ 1127  nano /home/noober/My\ Programming/Basics/bash/Here_Document_to_actual_file.sh
+ 1128  nano echoTest.sh 
+ 1129  ./echoTest.sh 
+ 1130  nano echoTest.sh 
+ 1131  ./echoTest.sh 
+ 1132  nano echoTest.sh 
+ 1133  ./echoTest.sh 
+ 1134  nano echoTest.sh 
+ 1135  ./echoTest.sh 
+ 1136  nano echoTest.sh 
+ 1137  ./echoTest.sh 
+ 1138  cd /home/noober/My\ Programming/Basics/
+ 1139  ls
+ 1140  git init
+ 1141  git add .
+ 1142  ls
+ 1143  grep -r "fro" .
+ 1144  grep -r "fro " .
+ 1145  grep -r "Fro " .
+ 1146  grep -r "brandon" .
+ 1147  grep -r "" .
+ 1148  #!/bin/bash
+ 1149  cat > Help <<'EOF'
+ 1150    -_-/           ,,          ,
+ 1151   (_ /            ||     _   ||
+ 1152  (_ --_  _-_  _-_,||/\\ < \,=||=
+ 1153    --_ )|| \\||_. || || /-|| ||
+ 1154   _/  ))||/   ~ |||| ||(( || ||
+ 1155  (_-_-  \\,/ ,-_- \\ |/ \/\\ \\,
+ 1156                     _/
+ 1157  Usage: exampleprog [options] SOURCE...
+ 1158          or:  exampleprog [options] DIRECTORY
+ 1159  Write your man page description here.
+ 1160  Options:
+ 1161        --help          print this help message
+ 1162        --version       print program version
+ 1163    -a, --alpha         do alpa
+ 1164    -f, --file=STRING   Log File to be Converted
+ 1165    -d, --debug         debug program
+ 1166    -q, --quiet         quiet output
+ 1167    -v, --verbose       verbose output
+ 1168  Examples:
+ 1169  The most common use is to run it like this.
+ 1170    $ exampleprog
+ 1171  But sometimes like this.
+ 1172    $ exampleprog -q -a --bravo=foo
+ 1173  Report bugs to <mailing-address>
+ 1174  EOF
+ 1175  echo "This is Temp:"
+ 1176  cat Help
+ 1177  git remote add origin https://github.com/phrasz/Cookbook.git
+ 1178  git commit -m "First Dump from Comp"
+ 1179  git push
+ 1180  git push -u origin master
+ 1181  cd ../Tools/
+ 1182  ls
+ 1183  cd GitFinder2HTML/
+ 1184  ls
+ 1185  nano echoTest.sh 
+ 1186  mkdir resources
+ 1187  ls
+ 1188  cat i
+ 1189  cat ip 
+ 1190  rm ip
+ 1191  ls
+ 1192  nano GitFinder2HTML.sh 
+ 1193  rm index.html 
+ 1194  ls
+ 1195  cat Help 
+ 1196  rm Help 
+ 1197  ls
+ 1198  ls gitRepos 
+ 1199  cat gitRepos 
+ 1200  rm gitRepos
+ 1201  ls
+ 1202  nano GitFinder2HTML.sh 
+ 1203  ls
+ 1204  ./GitFinder2HTML.sh 
+ 1205  nano GitFinder2HTML.sh 
+ 1206  ./GitFinder2HTML.sh 
+ 1207  ls
+ 1208  nano echoTest.sh 
+ 1209  nano GitFinder2HTML.sh 
+ 1210  cd ..
+ 1211  ls
+ 1212  cd CDW/
+ 1213  ls
+ 1214  cd CDW\ 2.0/
+ 1215  ls
+ 1216  ls -al
+ 1217  git init
+ 1218  git remote add origin 
+ 1219  git remote add origin https://github.com/bryfry/CDW.git
+ 1220  git pull
+ 1221  ls
+ 1222  rm .git/
+ 1223  rm -r .git/
+ 1224  y
+ 1225  ls
+ 1226  ls -al
+ 1227  git clone https://github.com/bryfry/CDW.git
+ 1228  ls
+ 1229  cd CDW/
+ 1230  ls
+ 1231  cd ..
+ 1232  ls
+ 1233  ls -al
+ 1234  mv CDW/* .
+ 1235  ls
+ 1236  rm -r CDW
+ 1237  ls -al
+ 1238  cd CDW/ls
+ 1239  cd CDW/
+ 1240  ls
+ 1241  ls -al
+ 1242  mv .git/ ../
+ 1243  ls
+ 1244  cd ..
+ 1245  rm CDW/
+ 1246  ls
+ 1247  rm -r CDW/
+ 1248  ls
+ 1249  ls -al
+ 1250  cd score_server/
+ 1251  ls
+ 1252  cd www/
+ 1253  ls
+ 1254  nano scores.html 
+ 1255  vim scores.html 
+ 1256  vi scores.html 
+ 1257  cd ..
+ 1258  ls
+ 1259  cd ..
+ 1260  ls
+ 1261  cd GitFinder2HTML/
+ 1262  ls
+ 1263  ls -al
+ 1264  cat .git/description 
+ 1265  ls
+ 1266  cat /etc/ssh/sshd_config | grep Port
+ 1267  cat /etc/ssh/sshd_config | grep Port | awk '{print $2}'
+ 1268  nano GitFinder2HTML.sh 
+ 1269  ./GitFinder2HTML.sh 
+ 1270  git log
+ 1271  git log | grep Date
+ 1272  git log | grep Date | awk '{print $4" "$3" "$6}'
+ 1273  git log | grep Date | awk '{print $4" "$3" "$6" "5}' 
+ 1274  git log | grep Date | awk '{print $4" "$3" "$6" "$5}' 
+ 1275  git log | grep Date | awk '{print $4" "$3" "$6" "$5"}' 
+ 1276  git log | grep Date | awk '{print $4" "$3" "$6" "$5}' 
+ 1277  git log | grep Date | awk '{print $4" "$3" "$6" at "$5}' 
+ 1278  nano GitFinder2HTML.sh 
+ 1279  ./GitFinder2HTML.sh 
+ 1280  nano GitFinder2HTML.sh 
+ 1281  ./GitFinder2HTML.sh 
+ 1282  nano GitFinder2HTML.sh 
+ 1283  ./GitFinder2HTML.sh 
+ 1284  nano GitFinder2HTML.sh 
+ 1285  ./GitFinder2HTML.sh 
+ 1286  nano GitFinder2HTML.sh 
+ 1287  nano echoTest.sh 
+ 1288  nano demo_index.html 
+ 1289  ls
+ 1290  nano demo_index.html 
+ 1291  ls
+ 1292  echo ""
+ 1293  echo "" >> GitFinder2HTML.sh 
+ 1294  echo demo_index.html 
+ 1295  cat demo_index.html 
+ 1296  cat demo_index.html >> GitFinder2HTML.sh 
+ 1297  nano GitFinder2HTML.sh 
+ 1298  ./GitFinder2HTML.sh 
+ 1299  git add GitFinder2HTML.sh
+ 1300  git commit =m"Added some new features to sh script. Working on embedding Chart/Table."
+ 1301  git push
+ 1302  git add GitFinder2HTML.sh
+ 1303  git status
+ 1304  git commit -m"Added some new features to sh script. Working on embedding Chart/Table."
+ 1305  git push
+ 1306  ls
+ 1307  cd Games/
+ 1308  ls
+ 1309  cd minecraft/
+ 1310  ls
+ 1311  mkdir ServerBackup
+ 1312  cd ServerBackup/
+ 1313  git clone root@192.168.1.100:/srv/minecraft/Bukkit_1.5$
+ 1314  git clone root@192.168.1.100:/srv/minecraft/Bukkit_1.5
+ 1315  git pull
+ 1316  ls
+ 1317  cd Bukkit_1.5/
+ 1318  ls
+ 1319  git pull
+ 1320  ls
+ 1321  cat /etc/hosts
+ 1322  sudo nano /etc/hosts
+ 1323  ping server
+ 1324  ssh root@server
+ 1325  cd ~
+ 1326  cd .ssh
+ 1327  ls
+ 1328  ssh-kengen -t rsa
+ 1329  ssh-keygen -t rsa
+ 1330  ssh-copy-id root@server
+ 1331  ssh root@server
+ 1332  cd ~/Games/minecraft/ServerBackup/
+ 1333  ls
+ 1334  cd
+ 1335  ls
+ 1336  cd ~/Games/minecraft/ServerBackup/Bukkit_1.5/
+ 1337  ls
+ 1338  git pull
+ 1339  crotab -e
+ 1340  crontab -e
+ 1341  ls
+ 1342  pwfd
+ 1343  pwd
+ 1344  crontab -e
+ 1345  `date --iso-8601=minutes
+ 1346  date --iso-8601=minutes
+ 1347  crontab -e
+ 1348  date --iso-8601=minutes
+ 1349  git log --pretty=oneline --color
+ 1350  date --iso-8601=minutes
+ 1351  git log --pretty=oneline --color
+ 1352  crontab -e
+ 1353  ls
+ 1354  cd ..
+ 1355  ls
+ 1356  cd ..
+ 1357  ls
+ 1358  cd ..
+ 1359  ls
+ 1360  cd ..
+ 1361  cd My\ Programming/
+ 1362  cd Tools/
+ 1363  ls
+ 1364  nano GitFinder2HTML/
+ 1365  cd GitFinder2HTML/
+ 1366  ls
+ 1367  nano GitFinder2HTML.sh 
+ 1368  ./GitFinder2HTML.sh 
+ 1369  ls
+ 1370  ssh root@server
+ 1371  scp index.html resources/ root@server:/var/www/GitFinder/
+ 1372  scp -r index.html resources/ root@server:/var/www/GitFinder/
+ 1373  ls
+ 1374  nano GitFinder2HTML.sh 
+ 1375  ./GitFinder2HTML.sh 
+ 1376  scp index.html root@server:/var/www/GitFinder/
+ 1377  nano GitFinder2HTML.sh 
+ 1378  ./GitFinder2HTML.sh 
+ 1379  scp index.html root@server:/var/www/GitFinder/
+ 1380  nano GitFinder2HTML.sh 
+ 1381  ./GitFinder2HTML.sh --help
+ 1382  nano GitFinder2HTML.sh 
+ 1383  ./GitFinder2HTML.sh --help
+ 1384  nano GitFinder2HTML.sh
+ 1385  ./GitFinder2HTML.sh --help
+ 1386  nano GitFinder2HTML.sh
+ 1387  nano index.html 
+ 1388  vi index.html 
+ 1389  nano index.html 
+ 1390  nano GitFinder2HTML.sh 
+ 1391  ./GitFinder2HTML.sh 
+ 1392  cat index.html 
+ 1393  clear
+ 1394  cat index.html 
+ 1395  nano GitFinder2HTML.sh 
+ 1396  ./GitFinder2HTML.sh 
+ 1397  vi index.html 
+ 1398  nano GitFinder2HTML.sh 
+ 1399  ./GitFinder2HTML.sh 
+ 1400  cat index.html 
+ 1401  clear
+ 1402  cat index.html 
+ 1403  nano GitFinder2HTML.sh 
+ 1404  ./GitFinder2HTML.sh 
+ 1405  clear; cat index.html 
+ 1406  scp index.html root@server:/var/www/GitFinder/
+ 1407  ls
+ 1408  cat 1.html 
+ 1409  rm 1.html 2.html 3.html 4.html 
+ 1410  ls
+ 1411  git add GitFinder2HTML.sh index.html
+ 1412  git commit -m "Expanding WebPage Maker; Git Repo Tracking done, stats near done."
+ 1413  git push
+ 1414  gitk &
+ 1415  sudo apt-get install gitk
+ 1416  gitk &
+ 1417  mkdir GitFinder2HTML
+ 1418  cd GitFinder2HTML/
+ 1419  ls
+ 1420  nano GitFinder2HTML.sh
+ 1421  ls
+ 1422  chmod 777 GitFinder2HTML.sh 
+ 1423  ./GitFinder2HTML.sh 
+ 1424  find .
+ 1425  cd ../../
+ 1426  find .
+ 1427  find . | grep .git/HEAD
+ 1428  cd ..
+ 1429  find . | grep .git/HEAD
+ 1430  find -printf \\ . | grep .git/HEAD
+ 1431  find . | grep .git/HEAD
+ 1432  find . | grep .git/HEAD | tr " " "\ "
+ 1433  find . | grep .git/HEAD | tr " " "\\ "
+ 1434  find . | grep .git/HEAD | tr " " "."
+ 1435  find . | grep .git/HEAD | tr " " "\\"
+ 1436  find . | grep .git/HEAD | tr " " "\\ "
+ 1437  find . | grep .git/HEAD | tr " " "\\\ "
+ 1438  find . | grep .git/HEAD | tr " " "\\ "
+ 1439  find . | grep .git/HEAD | tr " " "\\"
+ 1440  find . | grep .git/HEAD | tr " " "\\" | "\" "\ "
+ 1441  find . | grep .git/HEAD | tr " " "\\" | tr "\" "\ "
+ 1442  find . | grep .git/HEAD | tr " " "\\" | "\" "\ "
+ 1443  find . \( -type d -printf "%p/\n" , -type f -print \) | grep .git/HEAD | 
+ 1444  find . | grep .git/HEAD | tr " " "\\" | "\" "\ "
+ 1445  find . -type d -printf "%p/\n" , -type f -print | grep .git/HEAD | 
+ 1446  find . | grep .git/HEAD | tr " " "\\" | "\" "\ "
+ 1447  find -type d -printf "%p/\n" , -type f -print . | grep .git/HEAD | 
+ 1448  find help
+ 1449  find --help
+ 1450  man find
+ 1451  find . | grep .git/HEAD | tr " " "\\" | "\" "\ "
+ 1452  find -type d -printf "%p/\n" . | grep .git/HEAD | 
+ 1453  find . | grep .git/HEAD | tr " " "\\" | "\" "\ "
+ 1454  find -printf "%p/\n" . | grep .git/HEAD | 
+ 1455  find -printf "%p/\n" . | grep .git/HEAD | 
+ 1456  find -printf "%p/\n" . | grep .git/HEAD
+ 1457  find -type d -printf "%p/\n" . | grep .git/HEAD
+ 1458  man find
+ 1459  find . -type f -name | grep .git/HEAD
+ 1460  find . -print0 | grep .git/HEAD
+ 1461  pwd
+ 1462  ls
+ 1463  find -printf0 . | grep .git/HEAD
+ 1464  find -print0 . | grep .git/HEAD
+ 1465  find -printf \b . | grep .git/HEAD
+ 1466  find . -printf \b  | grep .git/HEAD
+ 1467  ls
+ 1468  find .
+ 1469  ls
+ 1470  find *
+ 1471  find . -type d -print0
+ 1472  | tr " " 
+ 1473  | tr " " .
+ 1474  find . | tr " " "\"
+ 1475  ;
+ 1476  find . | tr " " "\\"
+ 1477  find . | tr " " "\\\ "
+ 1478  find . | tr " " "\\"
+ 1479  find . | grep " "
+ 1480  find  | grep " " 
+ 1481  find . | grep " " | tr " " "\\"
+ 1482  find . | grep " " | tr " " "\\ "
+ 1483  find . | grep " " | tr " " "\\ \ "
+ 1484  find . | grep " " | tr " " "\b "
+ 1485  find . | grep " " | tr " " '\ '
+ 1486  find . | grep " " | tr " " '\\ '
+ 1487  find . | grep " " | tr " " '\\'." "
+ 1488  nano test_space.sh
+ 1489  chmod 777 test_space.sh 
+ 1490  ./test_space.sh 
+ 1491  nano test_space.sh
+ 1492  ./test_space.sh 
+ 1493  nano test_space.sh
+ 1494  ./test_space.sh 
+ 1495  nano test_space.sh
+ 1496  ./test_space.sh 
+ 1497  nano test_space.sh
+ 1498  ./test_space.sh 
+ 1499  find ... -print0
+ 1500  find  -print0
+ 1501  find -maxdepth 5 -type d -print0
+ 1502  find -maxdepth 5 -type d -print0 | xargs -0
+ 1503  find -maxdepth 5 -type d -print0 | xargs -0 | sort rn
+ 1504  find -maxdepth 5 -type d -print0 | xargs -0 | sort -rn
+ 1505  find . -type d -print0 | xargs -0 echo 'The directory is: '
+ 1506  find test -type d -exec echo '{}' +
+ 1507  find . -type d -exec echo '{}' +
+ 1508  ls
+ 1509  ls -al
+ 1510  find .
+ 1511  find . | tr " " "\" \""
+ 1512  find . | tr " " "\"\""
+ 1513  man tr
+ 1514  nano test_space.sh 
+ 1515  ./test_space.sh 
+ 1516  nano test_space.sh 
+ 1517  cd My\ Programming/
+ 1518  ls
+ 1519  cd Tools/
+ 1520  ls
+ 1521  cd GitFinder2HTML/
+ 1522  ls
+ 1523  nano GitFinder2HTML.sh 
+ 1524  device="wlan0"
+ 1525  remote=false
+ 1526  port="22222"
+ 1527  IP=`ifconfig $device | grep "inet addr" | awk '{print $2}' | tr ":" " " | awk '{print $2}'`
+ 1528  HOST=`hostname`
+ 1529  USER=`whoami`
+ 1530  echo "[DEBUGGING] My IP: "$IP
+ 1531  echo "[DEBUGGING] My hostname: "$HOST
+ 1532  #declare -a names_array=( check check 1 2 1 2 )
+ 1533  sudo find / | grep ".git/HEAD" >> $File
+ 1534  nano GitFinder2HTML.sh 
+ 1535  cd ../
+ 1536  ls
+ 1537  cd ..
+ 1538  cd Basics/
+ 1539  cd bash/
+ 1540  ls
+ 1541  chmod 777 *.sh
+ 1542  ls
+ 1543  ls | grep ile
+ 1544  nano checkForFile.sh 
+ 1545  ls
+ 1546  cd ~/
+ 1547  ls
+ 1548  cd My\ Programming/Tools/Rockwell/
+ 1549  ls
+ 1550  cd databases/
+ 1551  ls
+ 1552  wget http://geolite.maxmind.com/download/geoip/database/GeoLiteCountry/GeoIP.dat.gz
+ 1553  ls
+ 1554  gunzip GeoIP.dat.gz 
+ 1555  ls
+ 1556  ls -al
+ 1557  ls -alh
+ 1558  cd ..
+ 1559  ls
+ 1560  ./Rockwell.sh 
+ 1561  rm databases/GeoIP.dat 
+ 1562  ./Rockwell.sh 
+ 1563  ls databases/
+ 1564  ls
+ 1565  rm GeoIP.dat.gz 
+ 1566  ./Rockwell.sh 
+ 1567  ls
+ 1568  cd s
+ 1569  cd databases/
+ 1570  ls
+ 1571  cd ../
+ 1572  ls
+ 1573  ls databases/
+ 1574  rm databases/GeoIP.dat.gz 
+ 1575  ./Rockwell.sh 
+ 1576  ls databases/
+ 1577  ls
+ 1578  ls databases/
+ 1579  rm databases/GeoIP.dat.gz 
+ 1580  ls
+ 1581  ./Rockwell.sh 
+ 1582  ls
+ 1583  ./Rockwell.sh 
+ 1584  ls
+ 1585  rm databases/GeoIP.dat 
+ 1586  ./Rockwell.sh 
+ 1587  rm databases/GeoIP.dat 
+ 1588  ./Rockwell.sh 
+ 1589  ls databases/
+ 1590  cd ..
+ 1591  ls
+ 1592  clea
+ 1593  clear
+ 1594  ls
+ 1595  cd Rockwell/
+ 1596  ls
+ 1597  ./Rockwell.sh 
+ 1598  ls databases/
+ 1599  geoiplookup
+ 1600  geoiplookup -f databases/GeoIP.dat 74.79.75.243
+ 1601  geoiplookup -f databases/GeoLiteCity.dat 74.79.75.243
+ 1602  ls
+ 1603  ls
+ 1604  nano WebSiteDownloader.sh 
+ 1605  ./WebSiteDownloader.sh 
+ 1606  ls
+ 1607  ls www.dhm.de/
+ 1608  ls
+ 1609  ssh root@server
+ 1610  ssh server2@192.168.1.100
+ 1611  cd ~/Games/minecraft/ServerBackup/Bukkit_1.5/
+ 1612  git pull
+ 1613  ssh server2@192.168.1.100
+ 1614  ssh root@server
+ 1615  virtualbox &
+ 1616  sudo apt-get update
+ 1617  sudo reboot
+ 1618  ls
+ 1619  man wget
+ 1620  ls
+ 1621  ls www.dhm.de/
+ 1622  ls www.dhm.de/robots.txt 
+ 1623  cat www.dhm.de/robots.txt 
+ 1624  ls
+ 1625  cat www.dhm.de/robots.txt 
+ 1626  ls www.dhm.de/
+ 1627  ls
+ 1628  rm dhm.php\?seite\=5\&fld_0\=MI002762.*
+ 1629  ls
+ 1630  cd www.dhm.de/
+ 1631  find . 
+ 1632  find . | wc -l
+ 1633  find . 
+ 1634  find . | wc -l
+ 1635  sudo apt-get update
+ 1636  sudo apt-get upgrade
+ 1637  vboxmanage list vms | grep Server | awk '{print $5}' | tr -d "{" | tr -d "}"
+ 1638  vboxmanage list vms
+ 1639  vboxmanage list vms | grep "Server 12.04.2 2013" | awk '{print $5}' | tr -d "{" | tr -d "}"
+ 1640  vboxmanage startvm `vboxmanage list vms | grep "Server 12.04.2 2013" | awk '{print $5}' | tr -d "{" | tr -d "}"` --type headless
+ 1641  ssh root@server
+ 1642  ssh server2@192.168.1.100
+ 1643  ls
+ 1644  cd My\ Programming/Tools/
+ 1645  ls
+ 1646  cd GitFinder2HTML/
+ 1647  ls
+ 1648  ./GitFinder2HTML.sh
+ 1649  sudo ./GitFinder2HTML.sh
+ 1650  diff GitFinder2HTML.sh GitFinder2HTML.sh.save 
+ 1651  nano GitFinder2HTML.sh
+ 1652  ./GitFinder2HTML.sh
+ 1653  nano GitFinder2HTML.sh
+ 1654  ./GitFinder2HTML.sh
+ 1655  nano GitFinder2HTML.sh
+ 1656  ./GitFinder2HTML.sh
+ 1657  ls
+ 1658  ls -al
+ 1659  ./GitFinder2HTML.sh
+ 1660  cat index.html 
+ 1661  nano GitFinder2HTML.sh
+ 1662  ./GitFinder2HTML.sh
+ 1663  ./GitFinder2HTML.sh --remote
+ 1664  ./GitFinder2HTML.sh -remote
+ 1665  nano GitFinder2HTML.sh
+ 1666  ./GitFinder2HTML.sh -remote
+ 1667  ./GitFinder2HTML.sh --remote
+ 1668  ls
+ 1669  cat index.html 
+ 1670  nano GitFinder2HTML.sh
+ 1671  ./GitFinder2HTML.sh
+ 1672  cat index.html 
+ 1673  nano GitFinder2HTML.sh
+ 1674  ./GitFinder2HTML.sh
+ 1675  cat index.html 
+ 1676  ./GitFinder2HTML.sh
+ 1677  nano GitFinder2HTML.sh
+ 1678  ./GitFinder2HTML.sh
+ 1679  ls
+ 1680  cat thisone 
+ 1681  nano GitFinder2HTML.sh
+ 1682  ./GitFinder2HTML.sh
+ 1683  cat index.html 
+ 1684  scp index.html root@server:/var/www/GitFinder/
+ 1685  clear
+ 1686  ssh root@server
+ 1687  ls
+ 1688  rm echoTest.sh 
+ 1689  rm GitFinder2HTML.sh.save 
+ 1690  ls
+ 1691  rm thisone 
+ 1692  nano GitFinder2HTML.sh 
+ 1693  ls
+ 1694  nano GitFinder2HTML.sh 
+ 1695  ./GitFinder2HTML.sh 
+ 1696  cat index.html 
+ 1697  ls
+ 1698  rm demo_index.html 
+ 1699  ls
+ 1700  cat index.html 
+ 1701  nano GitFinder2HTML.sh 
+ 1702  ls
+ 1703  ls -al
+ 1704  rm -r .git/
+ 1705  y
+ 1706  ls
+ 1707  cat index.html 
+ 1708  git init
+ 1709  ls
+ 1710  git add *
+ 1711  git commit -m"Restoration of Repo post sanitization"
+ 1712  git remote add origin https://github.com/phrasz/GitFinder.git
+ 1713  git push -u origin master
+ 1714  l
+ 1715  sls
+ 1716  ls
+ 1717  sl
+ 1718  sudo apt-get install sl
+ 1719  sl
+ 1720  sl -a
+ 1721  sl -al
+ 1722  sl -alhtr
+ 1723  ls
+ 1724  ./GitFinder2HTML.sh 
+ 1725  nano GitFinder2HTML.sh 
+ 1726  ./GitFinder2HTML.sh 
+ 1727  scp index.html root@server:/var/www/GitFinder/
+ 1728  cat index.html 
+ 1729  ./GitFinder2HTML.sh 
+ 1730  nano GitFinder2HTML.sh 
+ 1731  ./GitFinder2HTML.sh 
+ 1732  cat index.html 
+ 1733  scp index.html root@server:/var/www/GitFinder/
+ 1734  nano GitFinder2HTML.sh 
+ 1735  ./GitFinder2HTML.sh 
+ 1736  scp index.html root@server:/var/www/GitFinder/
+ 1737  nano GitFinder2HTML.sh 
+ 1738  ./GitFinder2HTML.sh 
+ 1739  scp index.html root@server:/var/www/GitFinder/
+ 1740  nano GitFinder2HTML.sh 
+ 1741  ./GitFinder2HTML.sh 
+ 1742  scp index.html root@server:/var/www/GitFinder/
+ 1743  nano GitFinder2HTML.sh 
+ 1744  ./GitFinder2HTML.sh 
+ 1745  scp index.html root@server:/var/www/GitFinder/
+ 1746  cat index.html 
+ 1747  ./GitFinder2HTML.sh 
+ 1748  nano GitFinder2HTML.sh 
+ 1749  ./GitFinder2HTML.sh 
+ 1750  scp index.html root@server:/var/www/GitFinder/
+ 1751  nano GitFinder2HTML.sh 
+ 1752  ./GitFinder2HTML.sh 
+ 1753  nano GitFinder2HTML.sh 
+ 1754  ./GitFinder2HTML.sh 
+ 1755  scp index.html root@server:/var/www/GitFinder/
+ 1756  ls
+ 1757  cd resources/
+ 1758  ls
+ 1759  nano TopBar.css 
+ 1760  cd ..
+ 1761  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1762  nano TopBar.css 
+ 1763  nano resources/TopBar.css 
+ 1764  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1765  nano resources/TopBar.css 
+ 1766  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1767  nano resources/TopBar.css 
+ 1768  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1769  nano resources/TopBar.css 
+ 1770  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1771  nano resources/TopBar.css 
+ 1772  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1773  nano resources/TopBar.css 
+ 1774  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1775  nano resources/TopBar.css 
+ 1776  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1777  nano resources/TopBar.css 
+ 1778  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1779  nano resources/TopBar.css 
+ 1780  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1781  nano resources/TopBar.css 
+ 1782  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1783  nano resources/TopBar.css 
+ 1784  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1785  nano resources/TopBar.css 
+ 1786  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1787  nano resources/TopBar.css 
+ 1788  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1789  nano resources/TopBar.css 
+ 1790  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1791  nano resources/TopBar.css 
+ 1792  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1793  nano resources/TopBar.css 
+ 1794  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1795  nano resources/TopBar.css 
+ 1796  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1797  nano resources/TopBar.css 
+ 1798  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1799  nano resources/TopBar.css 
+ 1800  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1801  nano resources/TopBar.css 
+ 1802  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1803  nano resources/TopBar.css 
+ 1804  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1805  nano resources/TopBar.css 
+ 1806  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1807  nano resources/TopBar.css 
+ 1808  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1809  nano resources/TopBar.css 
+ 1810  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1811  nano resources/TopBar.css 
+ 1812  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1813  nano resources/TopBar.css 
+ 1814  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1815  nano resources/TopBar.css 
+ 1816  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1817  nano resources/TopBar.css 
+ 1818  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1819  nano resources/TopBar.css 
+ 1820  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1821  cat index.html | grep reveal
+ 1822  cat -n index.html | grep reveal
+ 1823  cat index.html | less
+ 1824  nano resources/TopBar.css 
+ 1825  cat index.html | less
+ 1826  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1827  nano resources/TopBar.css 
+ 1828  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1829  nano resources/TopBar.css 
+ 1830  nano GitFinder2HTML.sh 
+ 1831  ./GitFinder2HTML.sh 
+ 1832  scp index.html root@server:/var/www/GitFinder/
+ 1833  nano GitFinder2HTML.sh 
+ 1834  ./GitFinder2HTML.sh 
+ 1835  scp index.html root@server:/var/www/GitFinder/
+ 1836  nano GitFinder2HTML.sh 
+ 1837  scp index.html root@server:/var/www/GitFinder/
+ 1838  ./GitFinder2HTML.sh 
+ 1839  scp index.html root@server:/var/www/GitFinder/
+ 1840  nano GitFinder2HTML.sh 
+ 1841  ./GitFinder2HTML.sh 
+ 1842  scp index.html root@server:/var/www/GitFinder/
+ 1843  nano GitFinder2HTML.sh 
+ 1844  nano resources/TopBar.css 
+ 1845  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1846  nano resources/TopBar.css 
+ 1847  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1848  nano resources/TopBar.css 
+ 1849  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1850  nano resources/TopBar.css 
+ 1851  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1852  nano resources/TopBar.css 
+ 1853  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1854  nano resources/TopBar.css 
+ 1855  scp resources/TopBar.css root@server:/var/www/GitFinder/resources/
+ 1856  nano resources/TopBar.css 
+ 1857  nano GitFinder2HTML.sh 
+ 1858  ls
+ 1859  ./GitFinder2HTML.sh 
+ 1860  ./GitFinder2HTML.sh --help
+ 1861  ./GitFinder2HTML.sh --version
+ 1862  nano GitFinder2HTML.sh 
+ 1863  ./GitFinder2HTML.sh --version
+ 1864  nano GitFinder2HTML.sh 
+ 1865  ./GitFinder2HTML.sh --version
+ 1866  nano GitFinder2HTML.sh 
+ 1867  ./GitFinder2HTML.sh --version
+ 1868  ./GitFinder2HTML.sh --help
+ 1869  ./GitFinder2HTML.sh -r
+ 1870  cat index.html | grep 74.
+ 1871  scp index.html root@server:/var/www/GitFinder/
+ 1872  ./GitFinder2HTML.sh
+ 1873  nano GitFinder2HTML.sh 
+ 1874  ./GitFinder2HTML.sh -
+ 1875  nano GitFinder2HTML.sh 
+ 1876  ./GitFinder2HTML.sh -
+ 1877  nano GitFinder2HTML.sh 
+ 1878  ./GitFinder2HTML.sh
+ 1879  ./GitFinder2HTML.sh -v
+ 1880  ./GitFinder2HTML.sh --verbose
+ 1881  nano GitFinder2HTML.sh 
+ 1882  ./GitFinder2HTML.sh -v
+ 1883  ./GitFinder2HTML.sh
+ 1884  ./GitFinder2HTML.sh -v -r
+ 1885  ./GitFinder2HTML.sh -v
+ 1886  ls
+ 1887  ./GitFinder2HTML.sh
+ 1888  nano GitFinder2HTML.sh 
+ 1889  ./GitFinder2HTML.sh
+ 1890  ./GitFinder2HTML.sh -v
+ 1891  ./GitFinder2HTML.sh -d lan0
+ 1892  ./GitFinder2HTML.sh --device lan0
+ 1893  nano GitFinder2HTML.sh 
+ 1894  ./GitFinder2HTML.sh --device lan0
+ 1895  ./GitFinder2HTML.sh -d lan0
+ 1896  nano GitFinder2HTML.sh 
+ 1897  ./GitFinder2HTML.sh -d lan0
+ 1898  ./GitFinder2HTML.sh -d lan0 -v
+ 1899  nano GitFinder2HTML.sh 
+ 1900  ./GitFinder2HTML.sh -d lan0 -v
+ 1901  ./GitFinder2HTML.sh -v
+ 1902  nano GitFinder2HTML.sh 
+ 1903  ./GitFinder2HTML.sh -v
+ 1904  ./GitFinder2HTML.sh -d lan0 -v
+ 1905  nano GitFinder2HTML.sh 
+ 1906  ./GitFinder2HTML.sh asda
+ 1907  ./GitFinder2HTML.sh --asda
+ 1908  ./GitFinder2HTML.sh --help
+ 1909  ls
+ 1910  ./GitFinder2HTML.sh -v
+ 1911  git add *
+ 1912  git commit -m"Version 1.0"
+ 1913  git push
+ 1914  ls
+ 1915  sudo crontab -e
+ 1916  pwd
+ 1917  sudo crontab -e
+ 1918  ls
+ 1919  sudo crontab -e
+ 1920  date --iso
+ 1921  sudo crontab -e
+ 1922  date
+ 1923  sudo crontab -e
+ 1924  date
+ 1925  sudo crontab -e
+ 1926  date
+ 1927  sudo crontab -e
+ 1928  date
+ 1929  sudo crontab -e
+ 1930  date
+ 1931  ls
+ 1932  ls -haltr
+ 1933  scp index.html root@server:/var/www/GitFinder/
+ 1934  sudo crontab -e
+ 1935  date
+ 1936  sudo crontab -e
+ 1937  date
+ 1938  nano GitFinder2HTML.sh 
+ 1939  ./GitFinder2HTML.sh -r
+ 1940  nano GitFinder2HTML.sh 
+ 1941  ./GitFinder2HTML.sh -r
+ 1942  scp index.html root@server:/var/www/GitFinder/
+ 1943  nano GitFinder2HTML.sh 
+ 1944  ./GitFinder2HTML.sh -r
+ 1945  scp index.html root@server:/var/www/GitFinder/
+ 1946  nano GitFinder2HTML.sh 
+ 1947  ./GitFinder2HTML.sh -r -v
+ 1948  nano GitFinder2HTML.sh 
+ 1949  ./GitFinder2HTML.sh -r -v
+ 1950  nano GitFinder2HTML.sh 
+ 1951  ./GitFinder2HTML.sh -r -v
+ 1952  cat index.html 
+ 1953  ./GitFinder2HTML.sh -r
+ 1954  scp index.html root@server:/var/www/GitFinder/
+ 1955  ./GitFinder2HTML.sh -r -v
+ 1956  scp index.html root@server:/var/www/GitFinder/
+ 1957  cat index.html 
+ 1958  nano GitFinder2HTML.sh 
+ 1959  ./GitFinder2HTML.sh -r -v
+ 1960  scp index.html root@server:/var/www/GitFinder/
+ 1961  git add GitFinder2HTML.sh 
+ 1962  git commit -m"Gave up in Last Updated: portion."
+ 1963  git push
+ 1964  nano GitFinder2HTML.sh 
+ 1965  ./GitFinder2HTML.sh -r -v
+ 1966  nano GitFinder2HTML.sh 
+ 1967  ./GitFinder2HTML.sh -r -v
+ 1968  nano GitFinder2HTML.sh 
+ 1969  ./GitFinder2HTML.sh -r -v
+ 1970  nano GitFinder2HTML.sh 
+ 1971  ./GitFinder2HTML.sh -r -v
+ 1972  nano GitFinder2HTML.sh 
+ 1973  ./GitFinder2HTML.sh -r -v
+ 1974  nano GitFinder2HTML.sh 
+ 1975  ./GitFinder2HTML.sh -r -v
+ 1976  nano GitFinder2HTML.sh 
+ 1977  ./GitFinder2HTML.sh -r -v
+ 1978  nano GitFinder2HTML.sh 
+ 1979  ./GitFinder2HTML.sh -r -v
+ 1980  ./GitFinder2HTML.sh -v
+ 1981  cat index.html 
+ 1982  scp index.html root@server:/var/www/GitFinder/
+ 1983  ls
+ 1984  nano README 
+ 1985  cat index.html | grep 74
+ 1986  cat index.html | grep 0.0
+ 1987  git add README index.html GitFinder2HTML.sh
+ 1988  git commit -m"Fixed Git Author/Date by adding direct paths --working-tree=<place> && --git-dir=<place/.git>"
+ 1989  git push
+ 1990  ls
+ 1991  sudo crontab -e
+ 1992  ls
+ 1993  cd ..
+ 1994  ls
+ 1995  cd noober/
+ 1996  cd My\ Programming/
+ 1997  ls
+ 1998  sudo crontabe -e
+ 1999  sudo crontab -e
+ 2000  git status
+ 2001  ls
+ 2002  cd PP_Games/
+ 2003  mkdir Reversi
+ 2004  cd Reversi/
+ 2005  git init
+ 2006  rm *
+ 2007  ls
+ 2008  ls -al
+ 2009  rm .git/
+ 2010  rm -r .git/
+ 2011  pwd
+ 2012  pwf
+ 2013  pwd
+ 2014  ls
+ 2015  git init
+ 2016  ls
+ 2017  ks
+ 2018  ls
+ 2019  nano README
+ 2020  git add *
+ 2021  git commit -m"README to squelch Git Remote add ... -_-"
+ 2022  las
+ 2023  ls
+ 2024  ls -al
+ 2025  rm .git/
+ 2026  rm -r .git/
+ 2027  y
+ 2028  ls
+ 2029  rm README 
+ 2030  ls
+ 2031  git init
+ 2032  cd .git/
+ 2033  ls
+ 2034  nano config 
+ 2035  cd ..
+ 2036  ls
+ 2037  rm -r .git/
+ 2038  ls
+ 2039  git --bare init
+ 2040  ls
+ 2041  cd ..
+ 2042  ls
+ 2043  cd Reversi/
+ 2044  ls
+ 2045  cd ..
+ 2046  mkdir Temp
+ 2047  cd Temp/
+ 2048  git clone ../Reversi/
+ 2049  ls
+ 2050  cd Reversi/
+ 2051  ls
+ 2052  cd ..
+ 2053  rm -r Temp
+ 2054  y
+ 2055  ls
+ 2056  cd Reversi/
+ 2057  ls
+ 2058  check out master
+ 2059  git checkout master
+ 2060  ls
+ 2061  sudo rm -r * 
+ 2062  l
+ 2063  mkdir .git
+ 2064  ls
+ 2065  ls -al
+ 2066  cd .git/
+ 2067  git --bare init
+ 2068  ls
+ 2069  cd ..ls
+ 2070  cd ..
+ 2071  ls
+ 2072  git checkout master
+ 2073  ls
+ 2074  ls -al
+ 2075  cd ..
+ 2076  sudo rm -r Reversi/
+ 2077  ls
+ 2078  mkdir Reversi
+ 2079  ls
+ 2080  cd Reversi/
+ 2081  ls
+ 2082  mv ~/Reversi.tar.gz .
+ 2083  tar -zxvf Reversi.tar.gz 
+ 2084  ls
+ 2085  rm Reversi.tar.gz 
+ 2086  find . | grep zip
+ 2087  rm images/images.zip
+ 2088  ls
+ 2089  ssh root@server
+ 2090  ssh server2@server
+ 2091  ls
+ 2092  cat main.c | grep gcc
+ 2093  gcc -o GenericProgram main.c -lallegro -lallegro_acodec -lallegro_audio -lallegro_font -lallegro_main -lallegro_image -lallegro_ttf -lallegro_primitives
+ 2094  cd ../../
+ 2095  ls
+ 2096  cd Libraries/
+ 2097  ls
+ 2098  cd A
+ 2099  ls
+ 2100  cd Allegro/
+ 2101  ls
+ 2102  wget http://downloads.sourceforge.net/project/alleg/allegro/5.0.10/allegro-5.0.10.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Falleg%2Ffiles%2Fallegro%2F5.0.10%2F&ts=1371408427&use_mirror=iweb
+ 2103  ls
+ 2104  ls -al
+ 2105  mv allegro-5.0.10.tar.gz\?r\=http\:%2F%2Fsourceforge.net%2Fprojects%2Falleg%2Ffiles%2Fallegro%2F5.0.10%2F allegro-5.0.10
+ 2106  ls
+ 2107  tar -zxvf allegro-5.0.10
+ 2108  ls
+ 2109  cd allegro-5.0.10/
+ 2110  ls
+ 2111  ./configure
+ 2112  make
+ 2113  ls
+ 2114  mkdir build
+ 2115  cd build/
+ 2116  ls
+ 2117  ccmake -DCMAKE_INSTALL_PREFIX=/usr .
+ 2118  apt-get install build-essential git cmake xorg-dev libgl1-mesa-dev libglu-dev
+ 2119  sudo apt-get install build-essential git cmake xorg-dev libgl1-mesa-dev libglu-dev
+ 2120  apt-get install libpng-dev libcurl4-dev libfreetype6-dev libjpeg-dev libvorbis-dev libopenal-dev libphysfs-dev  libgtk2.0-dev libasound-dev libpulse-dev libflac-dev libdumb1-dev
+ 2121  sudo apt-get install libpng-dev libcurl4-dev libfreetype6-dev libjpeg-dev libvorbis-dev libopenal-dev libphysfs-dev  libgtk2.0-dev libasound-dev libpulse-dev libflac-dev libdumb1-dev
+ 2122  sudo apt-get install libpng-dev libfreetype6-dev libjpeg-dev libvorbis-dev libopenal-dev libphysfs-dev  libgtk2.0-dev libasound-dev libpulse-dev libflac-dev libdumb1-dev
+ 2123  ccmake -DCMAKE_INSTALL_PREFIX=/usr ..
+ 2124  sudo apt-get install cmake-curses-gui
+ 2125  history >> current
